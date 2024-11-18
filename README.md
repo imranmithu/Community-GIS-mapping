@@ -51,9 +51,9 @@ source("scripts/map_creation.R")
 ```
 ## Outputs
 ### Interactive Maps:
-Kallayanpur Slum Map
-Dholpur Slum Map
-Shyampur Slum Map
+1) Kallayanpur Slum Map
+2) Dholpur Slum Map
+3) Shyampur Slum Map
 
 ### Each map includes:
 Boundaries for the respective slum.

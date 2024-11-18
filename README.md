@@ -2,24 +2,6 @@
 ## Overview
 This repository contains the code, data, and methodology for mapping health-related facilities in three urban informal settlements in Dhaka City: Kallayanpur, Dholpur, and Shyampur. The project uses interactive maps to visualize and communicate data about these settlements, including health care facilities, water collection points, sanitation, and more. Interactive maps, created using the R programming language, are used to make findings accessible and user-friendly. The repository demonstrates the potential of geocomputation to describe and change urban landscapes through data visualization.
 
-## Project Structure
-mapping-dhaka-facilities/
-├── data/                      # Input data files
-│   ├── shyampur_slum.csv
-│   ├── kallayanpur_slum.csv
-│   └── dholpur_slum.csv
-├── scripts/                   # R scripts for analysis and visualization
-│   ├── data_preprocessing.R   # Data cleaning and preparation
-│   ├── map_creation.R         # Leaflet map creation
-│   └── utilities.R            # Supporting functions
-├── outputs/                   # Outputs and generated maps
-│   ├── kallayanpur_map.html
-│   ├── dholpur_map.html
-│   └── shyampur_map.html
-├── LICENSE                    # License for usage
-└── README.md                  # Project documentation
-
-
 ## Methodology
 
 ### 1. Interactive Mapping
